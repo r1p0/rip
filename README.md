@@ -1,7 +1,6 @@
 ### Hi there, I'm Nicat - aka [4OFF][website] 👋
 
 [![Website](https://img.shields.io/website?label=4OFF.org&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://4off.org)
-[![Twitter Follow]()
 
 ## I'm a Developer !!
 
