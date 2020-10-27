@@ -1,9 +1,9 @@
-### Hi there, I'm Jesse - aka [4OFF][website] 👋
+### Hi there, I'm Nicat - aka [4OFF][website] 👋
 
 [![Website](https://img.shields.io/website?label=4OFF.org&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://4off.org)
 [![Twitter Follow]()
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Developer !!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
@@ -28,12 +28,12 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <br />
 <br />
@@ -73,10 +73,10 @@
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#259](https://github.com/r1p0) in [florinpop17/app-ideas](https://github.com/r1p0)
-2. 🎉 Merged PR [#13](https://github.com/r1p0) in [codeSTACKr/codeSTACKr](https://github.com/r1p0)
-3. 💪 Opened PR [#13](https://github.com/r1p0) in [codeSTACKr/codeSTACKr](https://github.com/r1p0)
-4. 🎉 Merged PR [#12](https://github.com/r1p0) in [codeSTACKr/codeSTACKr](https://github.com/r1p0)
-5. 💪 Opened PR [#12](https://github.com/r1p0) in [codeSTACKr/codeSTACKr](https://github.com/r1p0)
+2. 🎉 Merged PR [#13](https://github.com/r1p0) in [TheRip/TheRip](https://github.com/r1p0)
+3. 💪 Opened PR [#13](https://github.com/r1p0) in [TheRip/TheRip](https://github.com/r1p0)
+4. 🎉 Merged PR [#12](https://github.com/r1p0) in [TheRip/TheRip](https://github.com/r1p0)
+5. 💪 Opened PR [#12](https://github.com/r1p0) in [TheRip/TheRip](https://github.com/r1p0)
 <!--END_SECTION:activity-->
 
 </details>
