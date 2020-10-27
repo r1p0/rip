@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="" alt="Davay-Davay Spotify Playing" width="350" />](https://open.spotify.com/track/3t09TaslVMZopRbxEqN7pS?si=j7kWzTjDQjm61sMifmLy4w)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Davay-Davay Spotify Playing" width="350" />](https://open.spotify.com/track/3t09TaslVMZopRbxEqN7pS?si=j7kWzTjDQjm61sMifmLy4w)
 
 
 ### Connect with me:
